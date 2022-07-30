@@ -1,3 +1,3 @@
-# 7
+# Popup
 
 ## Simple cookies popup example.
